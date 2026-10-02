@@ -1,8 +1,4 @@
-For your GitHub project, put the **full README** I gave you into `README.md`.
-
-If you want a cleaner, more professional README rather than a very detailed one, I'd use this version:
-
-````markdown
+markdown
 # Customer Segmentation Using RFM and K-Means
 
 ## Overview
